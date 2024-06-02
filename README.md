@@ -1,1 +1,2 @@
 # Intermediate-Colleges-EDA
+EDA project entails analyzing educational data from across Pakistan to identify performance trends and regional disparities among intermediate colleges. Using EDA techniques to dissect factors such as academic results, faculty quality, and resources, aiming to highlight areas needing improvement. The analysis seeks to inform targeted interventions to bridge educational gaps between different regions, ultimately enhancing the national education standard.
